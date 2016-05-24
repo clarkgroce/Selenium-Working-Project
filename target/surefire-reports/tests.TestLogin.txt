@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.TestLogin
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.859 sec <<< FAILURE! - in tests.TestLogin
+forceFailure(tests.TestLogin)  Time elapsed: 9.234 sec  <<< FAILURE!
+java.lang.AssertionError: success message wasn't present after login
+	at tests.TestLogin.forceFailure(TestLogin.java:39)
+
