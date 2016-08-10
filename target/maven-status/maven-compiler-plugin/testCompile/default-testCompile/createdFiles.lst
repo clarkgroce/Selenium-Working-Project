@@ -1,3 +1,5 @@
+tests/TestDynamicLoading.class
 pageObjects/Login.class
-pageObjects/Base.class
 tests/TestLogin.class
+pageObjects/DynamicLoading.class
+pageObjects/Base.class
