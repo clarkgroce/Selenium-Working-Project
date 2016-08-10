@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import pageObjects.Login;
 import static org.junit.Assert.*;
 
-public class TestLogin {
+public class TestLogin  {
 
     private WebDriver driver;
     private Login login;
@@ -23,6 +23,12 @@ public class TestLogin {
     public void succeeded() {
         login.with("tomsmith", "SuperSecretPassword!");
         assertTrue("Success message not present", login.successMessagePresent());
+    }
+
+    @Test
+    public void failed() {
+        login.with("tomsmith", "badpassword");
+        assertTrue("Failure message not present", login.failureMessagePresent());
     }
 
 

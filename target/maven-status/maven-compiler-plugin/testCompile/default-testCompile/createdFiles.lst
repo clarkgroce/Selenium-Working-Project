@@ -1,2 +1,3 @@
 pageObjects/Login.class
+pageObjects/Base.class
 tests/TestLogin.class
