@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bf2747a-be52-4a1c-8d1a-cb7436614536" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seleniumguidebook-examples.iws" />
     <ignored path=".idea/workspace.xml" />
