@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 public class DynamicLoading extends Base {
 
     int test = 0;
-    String anothertest = "test";
 
 
     By startButton = By.cssSelector("#start button");
