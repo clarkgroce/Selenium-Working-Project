@@ -1,5 +1,7 @@
+/Users/cgroce/code/workshop-master/02-init/src/test/java/tests/Base.java
 /Users/cgroce/code/workshop-master/02-init/src/test/java/tests/TestDynamicLoading.java
 /Users/cgroce/code/workshop-master/02-init/src/test/java/tests/TestLogin.java
+/Users/cgroce/code/workshop-master/02-init/src/test/java/tests/Config.java
 /Users/cgroce/code/workshop-master/02-init/src/test/java/pageObjects/Base.java
 /Users/cgroce/code/workshop-master/02-init/src/test/java/pageObjects/DynamicLoading.java
 /Users/cgroce/code/workshop-master/02-init/src/test/java/pageObjects/Login.java

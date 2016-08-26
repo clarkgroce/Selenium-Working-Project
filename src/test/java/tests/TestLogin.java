@@ -2,13 +2,11 @@ package tests;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
 import pageObjects.Login;
 import static org.junit.Assert.*;
 
-public class TestLogin  {
+public class TestLogin extends Base {
 
-    private WebDriver driver;
     private Login login;
 
     @Before

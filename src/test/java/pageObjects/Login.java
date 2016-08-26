@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 
 public class Login extends Base {
 
-    private WebDriver driver;
     By loginFormLocator = By.id("login");
     By usernameLocator = By.id("username");
     By passwordLocator = By.id("password");
@@ -14,13 +13,13 @@ public class Login extends Base {
     By successmessageLocator = By.cssSelector(".flash.success");
     By failuremessageLocator = By.cssSelector(".flash.error");
 
-    public Login (WebDriver driver) {
+    public Login(WebDriver driver) {
         super(driver);
-        visit("http://the-internet.herokuapp.com/login");
+        visit("/login");
         assertTrue("The login form is not present", isDisplayed(loginFormLocator));
     }
 
-    public void with (String username, String password) {
+    public void with(String username, String password) {
         type(username, usernameLocator);
         type(password, passwordLocator);
         click(submitButton);

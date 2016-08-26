@@ -1,5 +1,8 @@
 tests/TestDynamicLoading.class
 pageObjects/Login.class
 tests/TestLogin.class
+tests/Config.class
+tests/Base$1.class
+tests/Base.class
 pageObjects/DynamicLoading.class
 pageObjects/Base.class
