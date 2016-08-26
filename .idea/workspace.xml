@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf2747a-be52-4a1c-8d1a-cb7436614536" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/Base.class" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/Base.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/DynamicLoading.class" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/DynamicLoading.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/Login.class" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/tests/TestLogin.class" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestLogin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pageObjects/Base.java" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Base.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/Base.java" afterPath="$PROJECT_DIR$/src/test/java/tests/Base.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/Config.java" afterPath="$PROJECT_DIR$/src/test/java/tests/Config.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pageObjects/Login.java" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/TestLogin.java" afterPath="$PROJECT_DIR$/src/test/java/tests/TestLogin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seleniumguidebook-examples.iws" />
@@ -71,11 +62,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39473686">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DynamicLoading.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13157895">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -105,10 +126,10 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/TestDynamicLoading.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/Base.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/Login.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/TestLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/Config.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" />
       </list>
     </option>
   </component>
@@ -695,10 +716,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -780,10 +801,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -865,10 +886,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -912,10 +933,10 @@
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -977,10 +998,10 @@
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1025,52 +1046,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#452#453#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#718#719#0" expanded="false" />
-            <element signature="e#755#756#0" expanded="false" />
-            <element signature="e#792#793#0" expanded="false" />
-            <element signature="e#846#847#0" expanded="false" />
-            <element signature="e#895#896#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#872#873#0" expanded="false" />
-            <element signature="e#928#929#0" expanded="false" />
-            <element signature="e#974#975#0" expanded="false" />
-            <element signature="e#1031#1032#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1104,8 +1079,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13157895">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
