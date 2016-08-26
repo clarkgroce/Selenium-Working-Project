@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bf2747a-be52-4a1c-8d1a-cb7436614536" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="seleniumguidebook-examples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,8 +84,8 @@
       <file leaf-file-name="DynamicLoading.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13157895">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.15350877">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -716,10 +715,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#503#504#0" expanded="false" />
-            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -801,10 +800,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#503#504#0" expanded="false" />
-            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,10 +885,10 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#503#504#0" expanded="false" />
-            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -933,10 +932,10 @@
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#503#504#0" expanded="false" />
-            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -998,10 +997,10 @@
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#503#504#0" expanded="false" />
-            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1103,8 +1102,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/DynamicLoading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13157895">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.15350877">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding />
         </state>
       </provider>
