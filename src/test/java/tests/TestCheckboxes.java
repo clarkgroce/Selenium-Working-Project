@@ -35,7 +35,7 @@ public class TestCheckboxes extends Base {
         driver.get("http://the-internet.herokuapp.com/checkboxes");
         WebElement checkbox = driver.findElement(By.cssSelector("form input:nth-of-type(2)"));
         assertThat(checkbox.getAttribute("checked"), is(not("null")));
-        assertThat(checkbox.getAttribute("checked"), is("true"));
+        assertThat(checkbox.getAttribute("checked"), is("false"));
     }
 
     //Using the .isSelected method
