@@ -27,14 +27,10 @@ public class Base {
                 capabilities.setCapability("platform", platform);
                 String sauceUrl = String.format("http://%s:%s@ondemand.saucelabs.com:80/wd/hub", sauceUser, sauceKey);
                 driver = new RemoteWebDriver(new URL(sauceUrl), capabilities);
-            } else if (host.equals("localhost")) {
-                if (browser.equals("firefox")) {
-                    driver = new FirefoxDriver();
-                } else if (browser.equals("chrome")) {
-                    System.setProperty("webdriver.chrome.driver",
-                            System.getProperty("user.dir") + "/vendor/chromedriver");
-                    driver = new ChromeDriver();
-                }
+            } else {
+                System.setProperty("webdriver.chrome.driver",
+                    System.getProperty("user.dir") + "/vendor/chromedriver");
+                driver = new ChromeDriver();
             }
         }
         @Override
